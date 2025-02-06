@@ -84,4 +84,4 @@ export default {
     },
   },
   plugins: [],
-};x
+};
